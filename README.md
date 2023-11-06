@@ -1,14 +1,11 @@
-#(icon)Público-alvo 
+Público-alvo 
+ Recrutadores
 
-[ ] Recrutadores
+Meu Portfólio 
+[[link](https://ismael-silva.github.io/Portfolio/)]
 
-#(icon)Meu Portfólio 
-[link]
-
-
-#(icon)Ferramentas Utilizadas 
-
+Ferramentas Utilizadas 
 - HTML 
 - CSS
 - JavaScript
-- Figma 
+  
